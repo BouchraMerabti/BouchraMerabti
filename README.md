@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BouchraMerabti
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java/ spring
+- 👀 I’m a software and computer science engineer
+- 🌱 I’m currently working on android apps
 - 💞️ I’m looking to collaborate on Android apps
  
 
